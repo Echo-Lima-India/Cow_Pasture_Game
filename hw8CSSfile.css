@@ -1,0 +1,86 @@
+.fences {
+	-fx-min-width: 30;
+	-fx-min-height: 27;
+	-fx-padding-insets: 0;
+	-fx-background-color: gray;
+	-fx-padding: 0; 
+	-fx-border-style: solid inside; 
+	-fx-border-width: 1;
+	-fx-border-insets: 0; 
+	-fx-border-radius: 0; 
+	-fx-border-color: gray;
+	-fx-alignment: center;
+}
+
+.emptySpaces {
+	-fx-min-width: 30;
+	-fx-min-height: 27;
+	-fx-padding-insets: 0;
+	-fx-background-color: green;
+	-fx-padding: 0; 
+	-fx-border-style: solid inside; 
+	-fx-border-width: 1;
+	-fx-border-insets: 0; 
+	-fx-border-radius: 0; 
+	-fx-border-color: gray;
+	-fx-alignment: center;
+}
+
+.player {
+	-fx-min-width: 30;
+	-fx-min-height: 27;
+	-fx-padding-insets: 0;
+	-fx-background-color: red;
+	-fx-padding: 0; 
+	-fx-border-style: solid inside; 
+	-fx-border-width: 1;
+	-fx-border-insets: 0; 
+	-fx-border-radius: 0; 
+	-fx-border-color: gray;
+	-fx-alignment: center;
+}
+
+.startGoalcombo {
+	-fx-min-width: 30;
+	-fx-min-height: 27;
+	-fx-padding-insets: 0;
+	-fx-background-color: blue;
+	-fx-padding: 0; 
+	-fx-border-style: solid inside; 
+	-fx-border-width: 1;
+	-fx-border-insets: 0; 
+	-fx-border-radius: 0; 
+	-fx-border-color: gray;
+	-fx-alignment: center;
+	-fx-text-fill: white;
+}
+
+.cows {
+	-fx-min-width: 30;
+	-fx-min-height: 27;
+	-fx-padding-insets: 0;
+	-fx-background-color: white !important;
+	-fx-padding: 0; 
+	-fx-border-style: solid inside; 
+	-fx-border-width: 1;
+	-fx-border-insets: 0; 
+	-fx-border-radius: 0; 
+	-fx-border-color: gray;
+	-fx-alignment: center;
+}
+
+.dirtySpace {
+	-fx-min-width: 30;
+	-fx-min-height: 27;
+	-fx-padding-insets: 0;
+	-fx-background-color: #654321;
+	-fx-padding: 0; 
+	-fx-border-style: solid inside; 
+	-fx-border-width: 1;
+	-fx-border-insets: 0; 
+	-fx-border-radius: 0; 
+	-fx-border-color: gray;
+	-fx-alignment: center;
+}
+
+
